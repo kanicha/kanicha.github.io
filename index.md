@@ -16,10 +16,13 @@
 # 制作物
   私が制作した、愛すべき成果物を紹介します。  
   
-  [TIMESCALE](./pages//portFolio-TIMESCALE.md)  
-  [天井宮殿の騎士](./pages/portFolio-knightOfHeavenlyPalace.md)   
+  - 3年生  
+  [TIMESCALE](./pages/portFolio-TIMESCALE.md)  
+  [天井宮殿の騎士](./pages/portFolio-knightOfHeavenlyPalace.md)
+  - 2年生   
   [オセリス](./pages/portFolio-Othelis.md)  
-  [オセリスサーバー](./pages/portFolio-OthelisServer.md)  
+  [オセリスサーバー](./pages/portFolio-OthelisServer.md)
+  - 1年生  
   [ハゲ爆発](./pages/portFolio-HageExprosion.md)  
   [AIの歌](./pages/portFolio-SongForAI.md)  
 
