@@ -1,123 +1,51 @@
----
-layout: default
----
+[Link to another page](./portFolio-Othelis.md).
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# プロフィール
 
-[Link to another page](./another-page.html).
+![icon](./image/icon.png)
 
-There should be whitespace between paragraphs.
+氏名: 酒巻大樹 (kanicha)
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+千葉県出身の専門学校に通うゲームプログラマー。
 
-# Header 1
+専門学校に入りゲーム制作の面白さに気づき、Unityでゲーム制作を開始、ゲーム制作を学んだ後、ゲーム業界への就職を決意。
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+現在就職活動中。
 
-## Header 2
+好きな動物はキツネ。
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+[Github](https://github.com/kanicha)
 
-### Header 3
+# 学歴
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+2016年 千葉県立東葛飾高等学校 入学
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+2019年 千葉県立東葛飾高等学校 卒業
 
-#### Header 4
+2020年 東京デザインテクノロジーセンター専門学校 入学
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+> 2022年 株式会社マンカインドゲームズ アルバイト
 
-##### Header 5
+2023年 東京デザインテクノロジーセンター専門学校 卒業見込み
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+## 使用技術経歴
 
-###### Header 6
+- ゲーム開発
+    - C# (Unity)
+      - PC用ゲーム開発
+      - iPhone用ゲーム開発
+      - NintendoSwitch用ゲーム開発
+- ゲームサーバー開発
+    - JavaScript(TypeScript)
+- DiscordBot開発
+    - JavaScript(TypeScript)
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+# 資格
 
-### There's a horizontal rule below this.
+- ビジネス文書実務試験 2級
 
-* * *
+- JESIC認定コミュニケーションスキルアップ検定
 
-### Here is an unordered list:
+- Microsoft Office Specialist Excel 2016
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+- アソシエイト・ホスピタリティ・コーディネーター
