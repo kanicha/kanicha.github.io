@@ -16,12 +16,12 @@
 # 制作物
   私が制作した、愛すべき成果物を紹介します。  
   
-  [TIMESCALE](./portFolio-TIMESCALE.md)  
-  [天井宮殿の騎士](./portFolio-knightOfHeavenlyPalace.md)   
-  [オセリス](./portFolio-Othelis.md)  
-  [オセリスサーバー](./portFolio-OthelisServer.md)  
-  [ハゲ爆発](./portFolio-HageExprosion.md)  
-  [AIの歌](./portFolio-SongForAI.md)  
+  [TIMESCALE](./pages//portFolio-TIMESCALE.md)  
+  [天井宮殿の騎士](./pages/portFolio-knightOfHeavenlyPalace.md)   
+  [オセリス](./pages/portFolio-Othelis.md)  
+  [オセリスサーバー](./pages/portFolio-OthelisServer.md)  
+  [ハゲ爆発](./pages/portFolio-HageExprosion.md)  
+  [AIの歌](./pages/portFolio-SongForAI.md)  
 
 
 
