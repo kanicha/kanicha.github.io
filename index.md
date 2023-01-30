@@ -1,20 +1,28 @@
-[Link to another page](./portFolio-Othelis.md).
-
 # プロフィール
 
 ![icon](./image/icon.png)
 
 氏名: 酒巻大樹 (kanicha)
 
-千葉県出身の専門学校に通うゲームプログラマー。
-
-専門学校に入りゲーム制作の面白さに気づき、Unityでゲーム制作を開始、ゲーム制作を学んだ後、ゲーム業界への就職を決意。
-
-現在就職活動中。
-
+千葉県出身の専門学校に通うゲームプログラマー。  
+専門学校に入りゲーム制作の面白さに気づき、Unityでゲーム制作を開始  
+ゲーム制作を学んだ後、ゲーム業界への就職を決意。  
+現在就職活動中。  
 好きな動物はキツネ。
 
 [Github](https://github.com/kanicha)
+
+# 制作物
+  私が制作した、愛すべき成果物を紹介します。  
+  
+  [TIMESCALE](./portFolio-TIMESCALE.md)  
+  [天井宮殿の騎士](./portFolio-knightOfHeavenlyPalace.md)   
+  [オセリス](./portFolio-Othelis.md)  
+  [オセリスサーバー](./portFolio-OthelisServer.md)  
+  [ハゲ爆発](./portFolio-HageExprosion.md)  
+  [AIの歌](./portFolio-SongForAI.md)  
+
+
 
 # 学歴
 
@@ -43,9 +51,6 @@
 # 資格
 
 - ビジネス文書実務試験 2級
-
 - JESIC認定コミュニケーションスキルアップ検定
-
 - Microsoft Office Specialist Excel 2016
-
 - アソシエイト・ホスピタリティ・コーディネーター
