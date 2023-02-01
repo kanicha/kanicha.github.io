@@ -23,14 +23,14 @@ C#
 Unity 2019.2.21f1  
 
 ### 曲選択画面
-<img width="500" src="../image/SongForAI/SongSelectUI/pics1.png">  
+<img width="500" src="https://github.com/kanicha/kanicha.github.io/blob/Master/image/SongForAI/SongSelectUI/pics1.PNG?raw=true">  
 CSVで読み取ったデータを使い、各難易度やクリア状況を表示するクラスです。
 配列やSwitchを使って分岐を行いSerializeFieldを使って表示を行っています。
 当時から忘れないように、コメントを付けるように意識して実装を行っていました、結果時間が立って見直しても  
 見やすいソースコードになったと思います。  
 
 ### CSVファイルからデータの習得
-<img width="500" src="../image/SongForAI/ReadCSV/pics1.png">  
+<img width="500" src="https://github.com/kanicha/kanicha.github.io/blob/Master/image/SongForAI/ReadCSV/pics1.PNG?raw=true">  
 曲のマスターデータ(曲名、難易度の値など)をCSVで管理していたので、
 スクリプトを通しデータを習得する処理を書いていました。  
 
