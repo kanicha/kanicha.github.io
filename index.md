@@ -49,6 +49,7 @@
       - NintendoSwitch用ゲーム開発
 - ゲームサーバー開発
     - JavaScript(TypeScript)
+    - NodeJs
 - DiscordBot開発
     - JavaScript(TypeScript)
 
