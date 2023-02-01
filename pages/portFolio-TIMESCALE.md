@@ -33,21 +33,21 @@ Unity 2021.2.15f1
 スキル一つ一つにTypeというEnumを作ってあげて設定していることで、他のスクリプトからも参照できるようになり処理しやすい書き方にできたと思っています。  
 
 ### スキル発動
-<img width="500" src="https://github.com/kanicha/kanicha.github.io/blob/Master/image/TIMESCALE/SkillActive/pics1.png">
-<img width="500" src="https://github.com/kanicha/kanicha.github.io/blob/Master/image/TIMESCALE/SkillActive/pics2.png">  
+<img width="500" src="https://github.com/kanicha/kanicha.github.io/blob/Master/image/TIMESCALE/SkillActive/pics1.png?raw=true">
+<img width="500" src="https://github.com/kanicha/kanicha.github.io/blob/Master/image/TIMESCALE/SkillActive/pics2.png?raw=true">  
 スキルを順に処理していく仕様だったので、リストに追加された時に処理関数を呼ぶように実装しました。  
 スキルのタイプをEnumで宣言しているため、タイプを見て各処理を行う関数へと分岐処理を行い、発動タイミングがあっていたら発動する実装にしています。  
 タイプによって細かな処理変更を加える事ができるため、追加ができるように意識し制作を行いました。  
 
 ### ステート管理
-<img width="500" src="https://github.com/kanicha/kanicha.github.io/blob/Master/image/TIMESCALE/State/pics1.png">  
+<img width="500" src="https://github.com/kanicha/kanicha.github.io/blob/Master/image/TIMESCALE/State/pics1.png?raw=true">  
 ステートをビット演算の形にすることで、複数のフラグ管理を一つのステートで管理しております。  
 結果、ソースコードを実際に変更を行う際にも変数が一つのため、参照先がわかりやすく  
 ステートの変更イベントを各処理で呼ぶことで、ステートの追加と削除をしやすくしており、変更と管理を見据えた実装を行いました。  
 
 ### バフ・デバフ
-<img width="500" src="https://github.com/kanicha/kanicha.github.io/blob/Master/image/TIMESCALE/Buff/pics2.png">
-<img width="500" src="https://github.com/kanicha/kanicha.github.io/blob/Master/image/TIMESCALE/Buff/pics1.png">  
+<img width="500" src="https://github.com/kanicha/kanicha.github.io/blob/Master/image/TIMESCALE/Buff/pics2.png?raw=true">
+<img width="500" src="https://github.com/kanicha/kanicha.github.io/blob/Master/image/TIMESCALE/Buff/pics1.png?raw=true">  
 各バフの管理を、バフの名前を列挙したEnum型Dictionaryを使って管理を行っています。  
 バフの名前をEnumで宣言することで、視覚的に追加しやすく且つ、Switch文等で分岐を行う際に素早く処理を行えるので、この実装を行いました。  
 Dictionaryにすることで、残りバフ回数を名前と同時に管理できるように実装しています。  
