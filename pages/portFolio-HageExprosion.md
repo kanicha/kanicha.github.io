@@ -31,7 +31,7 @@ Input関数を使って、Enterキーで爆発するように実装していま�
 ### スコア管理
 <img width="500" src="https://github.com/kanicha/kanicha.github.io/blob/Master/image/HageExprosion/Score/pics1.PNG?raw=true">  
 スコアの上昇を管理してるクラスです。  
-ボタンが押されるたびにスコアの値を参照を行い、決められた値よりスコアが多くなった場合、スコアが跳ね上がるようになっており    
+決められた値よりスコアが多くなった場合、スコアが跳ね上がるようになっており    
 Enterキーを押せば押すほど値が増えるので、一定で値が増えるより面白いと考え実装を行いました。
 
 **[トップページへ戻る](../index.md)**
