@@ -25,6 +25,8 @@ iOS 12Pro
 C#  
 Unity 2021.2.15f1  
 
+## 担当箇所
+
 ### スキル基底クラス
 <img width="500" src="https://github.com/kanicha/kanicha.github.io/blob/Master/image/TIMESCALE/SkillBaseClass/Pics1.png?raw=true">
 <img width="500" src="https://github.com/kanicha/kanicha.github.io/blob/Master/image/TIMESCALE/SkillBaseClass/Pics2.PNG?raw=true">
