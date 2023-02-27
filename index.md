@@ -18,7 +18,7 @@
   
   - 3年生  
   [TIMESCALE](./pages/portFolio-TIMESCALE.md)  
-  [天井宮殿の騎士](./pages/portFolio-knightOfHeavenlyPalace.md)
+  [天上宮殿の騎士](./pages/portFolio-knightOfHeavenlyPalace.md)
   - 2年生   
   [オセリス](./pages/portFolio-Othelis.md)  
   [オセリスサーバー](./pages/portFolio-OthelisServer.md)

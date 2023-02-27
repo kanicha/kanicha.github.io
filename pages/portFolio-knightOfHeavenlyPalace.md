@@ -1,5 +1,5 @@
 &nbsp;  
-**天井宮殿の騎士** [Github](https://github.com/letconst/knight-of-heavenly-palace-public)
+**天上宮殿の騎士** [Github](https://github.com/letconst/knight-of-heavenly-palace-public)
 
 ## プレイ動画
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L-TG0qn3S3A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
