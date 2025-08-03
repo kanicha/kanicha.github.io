@@ -70,7 +70,6 @@
 
 # 資格
 
-- ビジネス文書実務試験 2級
 - JESIC認定コミュニケーションスキルアップ検定
 - Microsoft Office Specialist Excel 2016
 - アソシエイト・ホスピタリティ・コーディネーター
