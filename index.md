@@ -17,7 +17,7 @@
 
   私が制作した、愛すべき成果物を紹介します。  
   
-  ## 専門学生
+## 専門学生
   - 3年生  
   [TIMESCALE](./pages/portFolio-TIMESCALE.md)  
   [天上宮殿の騎士](./pages/portFolio-knightOfHeavenlyPalace.md)
