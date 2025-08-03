@@ -8,14 +8,16 @@
 千葉県出身の専門学校に通うゲームプログラマー。  
 専門学校に入りゲーム制作の面白さに気づき、Unityでゲーム制作を開始  
 ゲーム制作を学んだ後、ゲーム業界への就職を決意。  
-現在就職活動中。  
+現在現役Unityエンジニアとして活躍中。  
 好きな動物はキツネ。
 
 [Github](https://github.com/kanicha)
 
 # 制作物
+
   私が制作した、愛すべき成果物を紹介します。  
   
+  ## 専門学生
   - 3年生  
   [TIMESCALE](./pages/portFolio-TIMESCALE.md)  
   [天上宮殿の騎士](./pages/portFolio-knightOfHeavenlyPalace.md)
@@ -30,15 +32,18 @@
 
 # 学歴
 
-2016年 千葉県立東葛飾高等学校 入学
+2016年4月 千葉県立東葛飾高等学校 入学
 
-2019年 千葉県立東葛飾高等学校 卒業
+2019年3月 千葉県立東葛飾高等学校 卒業
 
-2020年 東京デザインテクノロジーセンター専門学校 入学
+2020年4月 東京デザインテクノロジーセンター専門学校 入学
 
-> 2022年 株式会社マンカインドゲームズ アルバイト
+2023年3月 東京デザインテクノロジーセンター専門学校 卒業
 
-2023年 東京デザインテクノロジーセンター専門学校 卒業見込み
+# 職歴
+
+2023年4月 Nobollel株式会社 入社
+        Unityを用いたゲームアプリ開発に従事
 
 ## 使用技術経歴
 
@@ -47,9 +52,17 @@
       - PC用ゲーム開発
       - iPhone用ゲーム開発
       - NintendoSwitch用ゲーム開発
+      - WebGLゲーム開発
+    - Unityアセット
+      - UniTask
+      - UniRx
+      - DOTween
+      - Addressable Asset System
+      - UnityWebRequest
+    - その他ツール
+      - draw.io
 - ゲームサーバー開発
-    - JavaScript(TypeScript)
-    - NodeJs
+    - ruby on rails
 - DiscordBot開発
     - JavaScript(TypeScript)
 - Webページ開発
