@@ -18,6 +18,12 @@
   私が制作した、愛すべき成果物を紹介します。  
   
 ## 専門学生
+
+### おすすめ
+  [オセリス](./pages/portFolio-Othelis.md)   
+  [TIMESCALE](./pages/portFolio-TIMESCALE.md)
+
+### 学年別
   - 3年生  
   [TIMESCALE](./pages/portFolio-TIMESCALE.md)  
   [天上宮殿の騎士](./pages/portFolio-knightOfHeavenlyPalace.md)
@@ -27,8 +33,6 @@
   - 1年生  
   [ハゲ爆発](./pages/portFolio-HageExprosion.md)  
   [AIの歌](./pages/portFolio-SongForAI.md)  
-
-
 
 # 学歴
 
